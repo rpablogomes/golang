@@ -14,4 +14,5 @@ func main() {
 	fmt.Printf("%v, %T", fourth, fourth) //("VALUE, TYPE", value of fourth, type of forth)
 	fmt.Printf("%v, %T", fifth, fifth)   //("VALUE, TYPE", value of fourth, type of forth)
 	fmt.Printf("%v, %T", false, false)   //("VALUE, TYPE", value of fourth, type of forth)
+
 }
